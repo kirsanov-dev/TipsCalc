@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipsCalc</string>
+    <string name="cost_of_service">Стоимость заказа</string>
+    <string name="service_question">Как вам сервис?</string>
+    <string name="service_top_grade">Отлично</string>
+    <string name="service_middle_grade">Хорошо</string>
+    <string name="service_low_grade">Нормально</string>
+    <string name="round_up_question">Округлить?</string>
+    <string name="button_text">Рассчиттать</string>
+    <string name="tip_amount">Размер чаевых: %s</string>
+</resources>
